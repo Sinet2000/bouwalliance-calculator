@@ -1,23 +1,18 @@
-import React from 'react';
+import React from "react";
 
-import Jumbotron from 'react-bootstrap/Jumbotron';
-import Container from 'react-bootstrap/Container';
+import Container from "react-bootstrap/Container";
 
-import ButtonsShowcase from './showcases/Buttons';
-import ToastsShowcase from './showcases/Toasts';
+import CalculatorTabs from "./views/CalculatorTabs";
 
 const App: React.FC = () => {
   return (
     <Container className="p-3">
-      <Jumbotron>
+      <div>
         <h1 className="header">
-          Welcome To React-Bootstrap TypeScript Example
+          Example of <strong>Bouw Alliance B.V.</strong> Price Calculatir
         </h1>
-      </Jumbotron>
-      <h2>Buttons</h2>
-      <ButtonsShowcase />
-      <h2>Toasts</h2>
-      <ToastsShowcase />
+      </div>
+      <CalculatorTabs />
     </Container>
   );
 };
