@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bouwalliance-calculator/static/css/main.073c9b0a.css",
+    "main.js": "/bouwalliance-calculator/static/js/main.2cf40ccc.js",
+    "static/js/787.ef364665.chunk.js": "/bouwalliance-calculator/static/js/787.ef364665.chunk.js",
+    "static/media/logo.svg": "/bouwalliance-calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bouwalliance-calculator/index.html",
+    "main.073c9b0a.css.map": "/bouwalliance-calculator/static/css/main.073c9b0a.css.map",
+    "main.2cf40ccc.js.map": "/bouwalliance-calculator/static/js/main.2cf40ccc.js.map",
+    "787.ef364665.chunk.js.map": "/bouwalliance-calculator/static/js/787.ef364665.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2cf40ccc.js"
+  ]
+}
